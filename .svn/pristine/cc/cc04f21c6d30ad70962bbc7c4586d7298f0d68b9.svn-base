@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/exit_layout"
+    android:layout_width="280dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/zhuce_on"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="left"
+        android:padding="10dp"
+        android:text="文件下载"
+        android:textColor="#63B8FF"
+        android:textSize="20sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#63B8FF" />
+
+    <ProgressBar
+        android:id="@+id/myprogreessbar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="200dip"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:max="100"
+        android:progress="0"
+        android:progressDrawable="@drawable/progressbar_style"
+        android:secondaryProgress="100" />
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="left"
+        android:padding="10dp"
+        android:text="已下载10%"
+        android:textColor="#000"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:id="@+id/button_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:layout_marginTop="10dp" >
+
+        <Button
+            android:id="@+id/exitBtn0"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/slidebar"
+            android:gravity="center"
+            android:onClick="okbutton"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:text="升级"
+            android:textColor="#fff"
+            android:textSize="18sp"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/exitBtn1"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/slidebar"
+            android:gravity="center"
+            android:onClick="canclebut"
+            android:paddingBottom="8dp"
+            android:paddingTop="8dp"
+            android:text="取消"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</LinearLayout>

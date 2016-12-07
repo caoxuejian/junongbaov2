@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="10dip" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|top" >
+
+        <Button
+            android:id="@+id/gridview_item_button"
+            android:layout_width="80dip"
+            android:layout_height="30dip"
+            android:background="@drawable/xxtlm"
+            android:clickable="true"
+            android:layout_marginTop="8dp"
+            android:textColor="@android:color/black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginLeft="70dp"
+            android:background="@drawable/redcircle"
+            android:gravity="center"
+            android:text="热"
+            android:textColor="#fff"
+            android:textSize="12sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary" type="color">#0eafff</color>
+    <color name="primarydark" type="color">#ff0a7e07</color>
+    <color name="accent">#ff0091ea</color>
+    <color name="primarytext" type="color">#de000000</color>
+    <color name="secondarytext" type="color">#8a000000</color>
+    <color name="ondarktext" type="color">#fffafafa</color>
+    <color name="primarybackground" type="color">#fffafafa</color>
+    <color name="secondarybackground" type="color">#ffeeeeee</color>
+    <color name="darkbackground" type="color">#ff323232</color>
+    <color name="divider">#1f000000</color>
+    
+    <color name="text_color_default_msg">#575757</color>
+    <color name="text_color_pressed_msg">#44c1ff</color>
+    <color name="xnb_bg_title">#0eafff</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="popup_main_background">#b0000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="tab_up_bg">#98000000</color>
+    <color name="title_btm">#80000000</color>
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    <color name="rounded_container_border">#ffb7babb</color>
+    <color name="item_click_bottom">#00aa01</color>
+    <color name="item_click_top">#00aa01</color>
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+    <color name="green">#98006400</color>
+    <color name="blue_dowm">#27408B</color>
+    <color name="blue">#1874CD</color>
+    <color name="red">#FF0000</color>
+    <color name="blue_up">#104E8B</color>
+    <color name="yellow">#98EEC900</color>
+    <color name="title">#00aa01</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="light_green">#CFCFCF</color>
+    <color name="xinxi_bg">#f2f2f2</color>
+    <color name="line_dark">#BEBEBE</color>
+    <color name="comment_gray_bg">#bbbbbb</color>
+    <color name="comment_gray_bg_on">#888</color>
+    <color name="group_bianguang">#ccc</color>
+    <color name="group_titlebg">#e0e0e0</color>
+    <color name="group_title">#000</color>
+    <color name="group_content">#666</color>
+    <color name="menu_one">#737373</color>
+    <color name="menu_two">#4d4d4d</color>
+    <color name="item_one">#CFCFCF</color>
+    <color name="item_red">#8B0000</color>
+    <color name="item_two">#eeebe6</color>
+    <color name="list_select_color">#ffcdc8c3</color>
+    <color name="gray_2">#ffdcdcdc</color>
+    <color name="orange">#ffffb400</color>
+    <color name="list_view_bg_color">#00000000</color>
+    <color name="splash_notification_bg">#77ffffff</color>
+    <color name="progress_fg_top">#ffffc800</color>
+    <color name="progress_fg_bottom">#fff0a000</color>
+    <color name="hot3">#ffff9600</color>
+    <color name="short_description_color">#ff333333</color>
+    <color name="background_color">#fff0f0f0</color>
+    <color name="color_a">#ff323232</color>
+    <color name="color_b">#ff646464</color>
+    <color name="color_c">#ff969696</color>
+    <color name="color_d">#ffc8c8c8</color>
+    <color name="color_e">#ffffffff</color>
+    <color name="color_f">#fff08c00</color>
+    <color name="color_g">#ffff6c00</color>
+    <color name="gold">#b89766</color>
+    <color name="lightgoldenrodyellow">#FAFAD2</color>
+    <color name="darkgoldenrod">#B8860B</color>
+    <color name="snow">#FFFAFA</color>
+    <color name="dark">#000000</color>
+    <color name="sxsn_divider_bg">#e0ddd9</color>
+    <color name="user_text">#216184</color>
+    <color name="choose_un">#ccc</color>
+    <color name="choose_ed">#009900</color>
+    <color name="detail_content">#333</color>
+    <color name="choose_line">#999</color>
+    <color name="zanun">#a5a5a5</color>
+    <color name="zaned">#ff6600</color>
+    <color name="public_menu_un">#ebebeb</color>
+    <color name="public_menu_ed">#0081de</color>
+    <color name="titbg">#008888</color>
+
+</resources>

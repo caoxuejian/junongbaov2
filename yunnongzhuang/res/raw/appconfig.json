@@ -1,0 +1,19 @@
+﻿{
+    "appinfo": {
+        "navtype": "tabbar",
+        "homebutton": "xinxitong",
+        "isTourist": "true"
+    },
+    "xinxitong": {
+        "mainactivity": "YNHNMainActivity",
+        "appname": "和农庄",
+        "updateurl": "hnz.txt",
+        "versionplist": "hnz.apk",
+        "siteid": "3739",
+        "areaid": "20912",
+        "autoRegister": "true",
+        "newsurl": "",
+        "xnbmsg":"http://219.232.243.58:83/json/junongbao/junongbao.json",
+        "showmsg":"true"
+    }
+}

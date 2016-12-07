@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="sc_transparent_background">#00111111</color>
+        <color name="black">#000000</color>
+        <color name="linecolor">#30808080</color>
+</resources>

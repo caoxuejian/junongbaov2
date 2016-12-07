@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">聚农宝</string>
+    <string name="app_vername">聚农宝</string>
+    <string name="host">http://219.232.243.58:83</string>
+    <string name="xmpp_resource_name">junongbao</string>
+    <string name="wx_key">wx0d59c82864624a9b</string>
+    <string name="wxsecret">27a558b694cbf5c2e431442696d1d934</string>
+    <string name="wb_key">351797974</string>
+	<string name="siteid">3757</string>
+	<string name="share_content">请输入您要分享的手机号码，系统会给对方发送一个短信，对方可依据短信内容下载安装聚农宝。</string>
+    <string name="scan">扫描二维码下载聚农宝：</string>
+    <string name="share_msg">一起玩聚农宝吧，找到志同道合的朋友，了解你不知道的农业知识，点击下载：http://m2.365960.com/jnb.htm</string>
+    <string name="feedback_title">聚农宝</string>
+	<!-- 百度推送id -->
+	<string name="pushID">GdtS65Yro15n0amy9Txb2X9p</string>
+</resources>

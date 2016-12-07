@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ifSysoLog" translatable="false">yes</string>
+    <string name="host">http://219.232.243.58:83</string>
+    <string name="start_mode">xnb</string>
+    <string name="hello">Hello World, YnActivity!</string>
+    <string name="item_daibiao">法人代表:</string>
+    <string name="item_phone">联系电话:</string>
+    <string name="item_area">地区:</string>
+    <string name="item_space">距此:</string>
+    <string name="qiye">企业</string>
+    <string name="jingxiaoshang">经销商</string>
+    <string name="yangzhichanghu">养殖场户</string>
+    <string name="zhengfujigou">政府机构</string>
+    <string name="chazhujia">查猪价</string>
+    <string name="chazhubing">查猪病</string>
+    <string name="chazixun">查资讯</string>
+    <string name="chashangpin">查商品</string>
+    <string name="woyaomai">我要卖</string>
+    <string name="woyao_mai">我要买</string>
+    <string name="woyaomai_msg">汇聚各类供求信息线上买卖精准快捷</string>
+    <string name="wenzhuanjia">问专家</string>
+    <string name="nongyerexian">农业热线</string>
+    <string name="chatianqi">查天气</string>
+    <string name="wenzhuanjia_msg">汇集各方面农业专家</string>
+    <string name="nongyerexian_msg">宣传对农政策维护农民权益</string>
+    <string name="chatianqi_msg">查询各地平均地温值</string>
+    <string name="app_name">聚农宝</string>
+    <string name="app_vername">聚农宝</string>
+    <string name="register">注册</string>
+    <string name="tourist">游客参观</string>
+    <string name="forget_paw">忘记密码</string>
+    <string name="change_paw">修改密码</string>
+    <string name="jihuo">激活</string>
+    <string name="search">搜索</string>
+    <string name="xnb_chart">发起群聊</string>
+    <string name="xnb_add_member">添加成员</string>
+    <string name="paw">密码</string>
+    <string name="addfriends">加好友</string>
+    <string name="fabiaoneirong">发表内容</string>
+    <string name="gerenxinxi">个人信息</string>
+    <string name="yaoyiyao">摇一摇</string>
+    <string name="userxinxi">详细资料</string>
+    <string name="head">头像</string>
+    <string name="remarkname">备注</string>
+    <string name="nickname">昵称</string>
+    <string name="nonghao">农信号</string>
+    <string name="sex">性别</string>
+    <string name="namecard">二维码名片</string>
+    <string name="saocard">扫一扫上面的二维码图案，加我农信</string>
+    <string name="area">地区</string>
+    <string name="ask_url">访问网址</string>
+    <string name="guanzhu">+关注</string>
+    <string name="work">关注行业</string>
+    <string name="business">行业</string>
+    <string name="scan">扫描二维码下载聚农宝：</string>
+    <string name="username">账号</string>
+    <string name="sel_area">选择地区</string>
+    <string name="sel">请选择</string>
+    <string name="china">中国</string>
+    <string name="number">账号</string>
+    <string name="sel_work">选择行业</string>
+    <string name="scan_tips">将取景框对准二维码，\n\u0009即可自动扫描。</string>
+    <string name="xnb_shouye">众筹</string>
+    <string name="xnb_msg">园主秀</string>
+    <string name="xnb_fenlei">购物</string>
+    <string name="xnb_dongtai">聚合</string>
+    <string name="xnb_fabu">发布</string>
+    <string name="xnb_faxian">休闲</string>
+    <string name="xnb_gengduo">更多</string>
+    <string name="xnb_me">我</string>
+    <string name="tx_note">短信</string>
+    <string name="tx_reply">回答</string>
+    <string name="tx_make_a_phone_call">拨打电话</string>
+    <string name="drop_dowm">下拉刷新</string>
+    <string name="release_update">松开刷新</string>
+    <string name="loading">正在加载。。。</string>
+    <string name="seen_more">更多</string>
+    <string name="wait">正在加载，请稍后</string>
+    <string name="success">发布成功</string>
+    <string name="fail">发布失败</string>
+    <string name="gongying">供应</string>
+    <string name="qiugou">求购</string>
+    <string name="GQmes">供求信息</string>
+    <string name="expert_question">专家问答</string>
+    <string name="cancel">取消</string>
+    <string name="post">提交</string>
+    <string name="xinxipublic">信息发布</string>
+    <string name="genggai">更改</string>
+    <string name="mycenter">我的账号</string>
+    <string name="login_in">登录</string>
+    <string name="agree">接受</string>
+    <string name="refuse">拒绝</string>
+    <string name="change">切换账号</string>
+    <string name="add">添加到联系人</string>
+    <string name="chat">发消息</string>
+    <string name="remarks">改备注</string>
+    <string name="invite">发送邀请</string>
+    <string name="feedback_input">请输入您的建议</string>
+    <string name="feedback_environmnet">环境信息</string>
+    <string name="feedback_title">聚农宝</string>
+    <string name="feedback_device">Device</string>
+    <string name="feedback_android">Android</string>
+    <string name="feedback_Appname">App Name</string>
+    <string name="feedback_appversion">Version</string>
+    <string name="qinglihuancun">清理缓存</string>
+    <!-- <string name="wodeshoucang">我的收藏</string> -->
+    <string name="yijianfangui">意见反馈</string>
+    <string name="zhengwenzihao">正文字号</string>
+    <string name="bangdingguanli">绑定管理</string>
+    <string name="thisinputmessage">在此添加您的意见</string>
+    <string name="nearby">附近的人</string>
+    <string name="album">我的相册</string>
+    <string name="result">扫描结果</string>
+    <string name="publish">我的发布</string>
+    <string name="lanmu">我的栏目</string>
+    <string name="fabu">您还没有任何发布哦，赶紧去发布吧！</string>
+    <string name="xiangce">您还没有任何相册哦，赶紧去上传吧！</string>
+    <string name="shoucang">您还没有任何收藏哦，赶紧去收藏吧！</string>
+    <string name="favorite">我的收藏</string>
+    <string name="saoyisao">扫一扫</string>
+    <string name="addcontacts">添加手机联系人</string>
+    <string name="lookpublic">查看公众号</string>
+    <string name="ruanjiangengxin">软件更新</string>
+    <string name="about">关于</string>
+    <string name="login_out">注  销</string>
+    <string name="nongxintong">农信</string>
+    <string name="hint">请输入</string>
+    <string name="tx_input_verify_code">请输入验证码</string>
+    <string name="tx_acquire_verify_code">获取验证码</string>
+    <string name="tx_input_phone">请输入手机号</string>
+    <string name="tx_input_user">新密码</string>
+    <string name="tx_input_pwd">确认新密码</string>
+    <string name="hint_add_area">请输入行业、品种、地区名称</string>
+    <string name="setting">设置</string>
+    <string name="share">分享给好友</string>
+    <string name="share_content">请输入您要分享的手机号码，系统会给对方发送一个短信，对方可依据短信内容下载安装聚农宝。</string>
+    <string name="yidong_jihuo">您的帐号尚未激活，激活以后才能发送信息，请输入您的手机号进行激活，在激活过程中，系统会通过您的手机发送一条短信，短信不收取服务费，有可能会产生0.1元的通道费，由运营商收取。</string>
+    <string name="landd_jihuo">您的帐号尚未激活，激活以后才能发送信息，请输入您的手机号进行激活，系统会向您输入的手机发送一条验证短信，请按照短信提示输入验证码即可激活。</string>
+    <string name="share_msg">一起玩聚农宝吧，找到志同道合的朋友，了解你不知道的农业知识，点击下载：http://m2.365960.com/jnb.htm</string>
+    <string name="phone">手机号</string>
+    <string name="question">问题</string>
+    <string name="guanzhudiqu">城市管理</string>
+    <string name="addarea">添加城市</string>
+    <string name="tishi">请输入地区名称</string>
+    <string name="logout">退出当前账号</string>
+    <string name="rexian">12316热线</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+    <string name="guanyu">&#160;&#160;&#160;&#160;12316益农通客户端应用是由北京农信通科技开发，联合农业行业权威涉农机构，为涉农行政机构、企业、合作组织、种养大户、农村经纪人、普通农户以及城乡居民提供新闻政策、农业科技、市场行情、农业休闲、生活百科等信息服务，搭建农产品供销、农业致富互动平台，推动农村农业信息化发展，推动农业产业化进程。
+免责声明：
+1、本应用所发布内容来源权威机构，不反映本应用之意见
+2、任何单位或个人认为通过本应用的内容可能涉嫌侵犯其合法权益，应该及时向本单位书面反馈，并提供身份证明、权属证明及详细侵权情况证明，本单位在收到上述法律文件后，将会尽快移除被控侵权内容
+3、本应用发布的价格信息仅供交易参考，不作为最终交易依据。
+关于信息更新：本应用信息更新时间为周一至周五，国家法定节假日不更新。
+关于信息审核：
+1、用户发布的信息要符合国家法律，不能发布反动、危险等信息；
+2、用户发布的信息在客户端提示发布成功后，将在1个工作日内审核。</string>
+    <string name="et_please_enter_your_name">请输入账号</string>
+    <string name="et_please_enter_the_phone_number">请输入密码</string>
+    <string name="btn_login">登        陆</string>
+    <string name="tx_dc">当场执法</string>
+    <string name="tx_yb">一般执法</string>
+    <string name="tx_xcqz">现场存证</string>
+    <string name="tx_rcjd">日常监督</string>
+    <string name="tx_username">账号昵称</string>
+    <string name="btn_accountbinding">绑 &#160;&#160;&#160;&#160;定</string>
+    <string name="tx_recording_card">录音存证</string>
+    <string name="tx_photos_card">照片取证</string>
+    <string name="tx_photos_card_content">及时上传照片存证，更加真实直观反映办案现场情况。</string>
+    <!-- 正式 -->
+    <string name="wx_key">wx0d59c82864624a9b</string>
+    <string name="wxsecret">27a558b694cbf5c2e431442696d1d934</string>
+    <string name="wb_key1">3821818475</string>
+    <string name="wb_key">351797974</string>
+    <string name="siteid">3757</string>
+    <!-- 百度推送id -->
+    <string name="pushID">GdtS65Yro15n0amy9Txb2X9p</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_send_log">Send log</string>
+    <string name="action_exit">Exit</string>
+    <string name="help_url">http://videoexpertsgroup.com/rtspplayer/help.html</string>
+    <string name="dialog_title">Add stream</string>
+    <string name="main_cameras_empty_list">No cameras\nTap Refresh to download cameras\nAll links in current list are for test purpose only</string>
+    <string name="main_streams_empty_list">No cameras\nTap \"+\" to add camera</string>
+    <string name="main_empty_list">No cameras\nTap \"+\" to add camera</string>
+    <string name="action_bar_play">Play</string>
+    <string name="action_bar_add">New stream</string>
+    <string name="action_bar_edit">Edit</string>
+    <string name="action_bar_delete">Delete mode</string>
+    <string name="action_bar_cancel_delete">Cancel delete mode</string>
+    <string name="dialog_name">Name:</string>
+    <string name="dialog_name_hint">enter stream name:</string>
+    <string name="dialog_type">Stream type:</string>
+    <string name="dialog_chb1">CheckBox1</string>
+    <string name="dialog_chb2">CheckBox2</string>
+    <string name="dialog_chb3">CheckBox3</string>
+    <string name="dialog_url">URL:</string>
+    <string name="dialog_url_hint">enter URL:</string>
+    <string name="dialog_user">User:</string>
+    <string name="dialog_password">Password:</string>
+    <string name="dialog_preview">Preview: (tap to take snapshot)</string>
+    <string name="dialog_save">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_preview_first">Tap for preview</string>
+    <string name="dialog_preview_snapshot">Tap to take snapshot</string>
+    <string name="dialog_exit_message">Are you sure to exit?</string>
+    <string name="dialog_exit_yes">Yes</string>
+    <string name="dialog_exit_no">No</string>
+    <string name="dialog_autostart_message">Do you wish to resume playback from last stream?</string>
+    <string name="dialog_autostart_yes">Yes</string>
+    <string name="dialog_autostart_no">No</string>
+    <string name="dialog_delete_channel">Are you sure delete channel</string>
+    <string name="dialog_hide_preview_video">Close Preview ? Please use Setting/Show Preview to enable/disable Preview.</string>
+    <string name="dialog_url_exist_message">There is item in list with same URL, Add new item?</string>
+    <string name="dialog_url_exist_yes">Yes</string>
+    <string name="dialog_url_exist_no">No</string>
+    <string name="player_control_decoder_hw">HW</string>
+    <string name="player_control_decoder_sw">SW</string>
+    <string name="tab_name_files">Records</string>
+    <string name="tab_name_streams">实时监控</string>
+    <string name="tab_name_cameras">World Cams</string>
+    <string name="download_cameras_title">Downloading&#8230;</string>
+    <string name="download_cameras_message">Please wait, Cameras list has been downloading </string>
+    <string name="download_cameras_cancel">Cancel</string>
+    <string name="storage_thumbs">thumbs</string>
+    <string name="numberpicker_but_save">Save</string>
+
+    <string-array name="channel_type_array">
+        <item>type one</item>
+        <item>type two</item>
+        <item>type three</item>
+        <item>type four</item>
+        <item>type five</item>
+    </string-array>
+
+    <string name="item_thumb">item_thumb</string>
+    <string name="album_all">All Photos</string>
+
+</resources>

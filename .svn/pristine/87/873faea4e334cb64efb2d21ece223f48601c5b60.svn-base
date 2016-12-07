@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/button_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/input_edit_backgroud"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/nan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:padding="10dp"
+                android:text="男"
+                android:textColor="@color/blue"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/iv_nan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dip"
+                android:background="@drawable/gender_enter_icon"/>
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:background="@color/LightGray" />
+
+        <RelativeLayout
+            android:id="@+id/nv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_select_pic_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:padding="10dp"
+                android:text="女"
+                android:textColor="@color/blue"
+                android:textSize="20sp" />
+
+            <ImageView
+                android:id="@+id/iv_nv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dip"
+                android:background="@drawable/gender_enter_icon" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

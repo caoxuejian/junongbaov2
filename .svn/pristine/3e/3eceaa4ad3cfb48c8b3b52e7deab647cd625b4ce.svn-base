@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/../../12316yinongtong/src/com/nxt/ynt/chat/MessageInterceptor.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../12316yinongtong/src/com/nxt/ynt/weather/util/ChineseCalendar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../AndroidXmppClient/src/com/nxt/chat/adapter/ChatAdapter.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/src/com/nxt/nxtapp/common/LogUtil.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
+

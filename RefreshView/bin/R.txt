@@ -1,0 +1,11 @@
+int attr type 0x7f010000
+int dimen activity_horizontal_margin 0x7f030000
+int dimen activity_vertical_margin 0x7f030001
+int drawable buildings 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable sky 0x7f020002
+int drawable sun 0x7f020003
+int id sun 0x7f050000
+int menu main 0x7f040000
+int[] styleable RefreshView { 0x7f010000 }
+int styleable RefreshView_type 0

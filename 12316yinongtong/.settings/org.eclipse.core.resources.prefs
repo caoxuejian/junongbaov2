@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//res/raw/appconfig.json=UTF-8
+encoding//src/com/nxt/ynt/VRWebviewActivity.java=UTF-8
+encoding//src/com/nxt/ynt/X5WebviewActivity.java=UTF-8
+encoding//src/com/nxt/ynt/database/DBUtilSafe.java=UTF-8
+encoding//src/com/nxt/ynt/img/AlbumActivity.java=UTF-8
+encoding//src/com/nxt/ynt/img/AlbumChanceActivity.java=UTF-8
+encoding//src/com/nxt/ynt/img/AlbumEditActivity.java=UTF-8
+encoding//src/com/nxt/ynt/img/ui/SquareLayout.java=UTF-8
+encoding//src/com/nxt/ynt/img/util/CommonDefine.java=UTF-8
+encoding//src/com/nxt/ynt/utils/ExpandTabView.java=UTF-8
+encoding//src/com/nxt/ynt/utils/JsonUtils.java=UTF-8
+encoding//src/com/nxt/ynt/x5view/BrowserActivity.java=UTF-8

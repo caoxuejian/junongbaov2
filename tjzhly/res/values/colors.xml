@@ -1,0 +1,8 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="xnb_bg">#11cd6e</color>
+    <color name="tab_choose">#11cd6e</color>
+    <color name="xnb_bg_title">#11cd6e</color>
+
+</resources>

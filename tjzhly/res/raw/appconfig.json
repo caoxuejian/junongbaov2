@@ -1,0 +1,19 @@
+﻿{
+    "appinfo": {
+        "navtype": "tabbar",
+        "homebutton": "xinxitong",
+        "isTourist": "true"
+    },
+    "xinxitong": {
+        "mainactivity": "TJZHLYMainActivity",
+        "appname": "智慧旅游",
+        "updateurl": "junongbao.txt",
+        "versionplist": "junongbao.apk",
+        "siteid": "3739",
+        "areaid": "20912",
+        "autoRegister": "true",
+        "newsurl": "",
+        "xnbmsg":"http://219.232.243.58:83/json/junongbao/junongbao.json",
+        "showmsg":"true"
+    }
+}

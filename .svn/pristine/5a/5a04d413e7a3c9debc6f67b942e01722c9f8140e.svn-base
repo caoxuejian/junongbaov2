@@ -1,0 +1,41 @@
+{
+    "type": "channel",
+    "name": "信息通",
+    "homebutton": [                
+                   {
+                   "order": "7",
+                   "icon": "http://219.232.243.58:83/json/img/icon_dxt.png",
+                   "title": "短信通",
+                   "lid": "http://219.232.243.58:81/dxt.htm",
+                   "type": "url"
+                   },
+                   {
+                   "order": "8",
+                   "icon": "http://219.232.243.58:83/json/img/icon_nqsd.png",
+                   "title": "农情速递",
+                   "lid": "http://219.232.243.58:81/nqsd.htm",
+                   "type": "url"
+                   },
+                   {
+                   "order": "9",
+                   "icon": "http://219.232.243.58:83/json/img/icon_njex.png",
+                   "title": "农价E讯",
+                   "lid": "http://219.232.243.58:81/njex.htm",
+                   "type": "url"
+                   },
+                   {
+                   "order": "10",
+                   "icon": "http://219.232.243.58:83/json/img/icon_nmsjb.png",
+                   "title": "农民手机报",
+                   "lid": "http://219.232.243.58:81/nmsjb.htm",
+                   "type": "url"
+                   },
+                   {
+                   "order": "11",
+                   "icon": "http://219.232.243.58:83/json/img/icon_nyhwt.png",
+                   "title": "农业会务通",
+                   "lid": "http://219.232.243.58:81/nyhwt.htm",
+                   "type": "url"
+                   }
+                   ]
+}

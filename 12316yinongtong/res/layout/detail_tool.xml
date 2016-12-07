@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:id="@+id/main_dialog_layout"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:gravity="center"
+        android:background="#303537"
+        android:orientation="vertical" >
+		<View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#1f2325" />
+        <LinearLayout
+            android:id="@+id/llayout01"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/menu_selector"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal" 
+            android:visibility="gone"
+            >
+
+            <TextView
+                android:id="@+id/textview_sc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:gravity="center_vertical|left"
+                android:text="评论"
+                android:textColor="#fff"
+                android:textSize="16sp"
+                android:drawableLeft="@drawable/pl"
+                android:drawablePadding="8dp"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#1f2325" />
+
+
+        <LinearLayout
+            android:id="@+id/llayout02"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/menu_selector"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:id="@+id/textview2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="收藏 "
+                android:textColor="#fff"
+                android:textSize="16sp" 
+                android:drawableLeft="@drawable/sc"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                />
+        </LinearLayout>
+
+       
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#1f2325" />
+
+
+        <LinearLayout
+            android:id="@+id/llayout06"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="@drawable/menu_selector"
+            android:gravity="center_horizontal" >
+
+            <TextView
+                android:id="@+id/textview6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="分享 "
+                android:textColor="#fff"
+                android:textSize="16sp" 
+                android:drawableLeft="@drawable/menu_refresh"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                />
+        </LinearLayout>
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#1f2325" 
+            android:visibility="gone"/>
+        
+        <LinearLayout
+            android:id="@+id/llayout03"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/menu_selector"
+            android:gravity="center_horizontal"
+            android:visibility="gone" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="添加朋友"
+                android:textColor="#fff"
+                android:textSize="16sp" 
+                 android:drawableLeft="@drawable/pengyou"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+          <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="#1f2325" />
+        <LinearLayout
+            android:id="@+id/llayout04"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/menu_selector"
+            android:gravity="center_horizontal" 
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="添加朋友"
+                android:textColor="#fff"
+                android:textSize="16sp" 
+                 android:drawableLeft="@drawable/pengyou"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

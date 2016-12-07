@@ -1,0 +1,58 @@
+{
+            "type": "channel",
+            "name": "信息通" ,
+            "tidkind": [
+                {
+                    "type": "Headline_pictures_text",
+                    "tid": "35",
+                    "tname": "新闻"
+                },
+                {
+                     "type": "othersite",
+					"lid": "77",
+					"tname": "务工信息",
+					"imgsrc": "",
+					"linkurl": "meilisannong/server/index.php/article_interface/getinfolist_c?"
+                },
+                {
+                   "type": "channel",
+            "lid": "523",
+            "tname": "便民服务",
+            "imgsrc": "",
+            "linkurl": ""
+                },
+				{
+				"type": "othersite",
+            "lid": "78",
+            "tname": "生活信息",
+            "imgsrc": "",
+            "linkurl": "meilisannong/server/index.php/article_interface/getinfolist_c?"
+				},
+				{
+				 "type": "channel",
+            "lid": "524",
+            "tname": "农机服务"  
+				},
+				{
+				"type": "channel",
+            "lid": "525",
+            "tname": "畜牧之窗",
+            "imgsrc": "",
+            "linkurl": ""
+				},{
+				 "type": "channel",
+            "lid": "527",
+            "tname": "农资推介",
+            "imgsrc": "",
+            "linkurl": ""},{
+			 "type": "channel",
+            "lid": "528",
+            "tname": "农业科技",
+            "imgsrc": "",
+            "linkurl": ""},{
+			"type": "othersite",
+            "lid": "82",
+            "tname": "今日焦点",
+            "linkurl": "meilisannong/server/index.php/article_interface/getinfolist_c?"}
+            ]			
+}

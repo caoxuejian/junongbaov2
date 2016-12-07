@@ -1,0 +1,26 @@
+{
+    "gongqiu": {
+        "activity": "com.nxt.ynt.gongqiu.ExpertListActivity"
+    },
+    "price": {
+        "activity": "com.nxt.zhly.X5WebviewActivity"
+    },
+    "poi": {
+        "activity": "com.nxt.ynt.XMWCCSearchActivity"
+    },
+    "query": {
+        "activity": "com.nxt.ynt.ChaZhuBingActivity"
+    },
+    "consultation": {
+        "activity": "com.nxt.ynt.XNBMSGActivity"
+    },
+    "capture": {
+        "activity": "com.nxt.ynt.capture.CaptureActivity"
+    },
+    "release": {
+        "activity": "com.nxt.ynt.img.AlbumEditActivity"
+    },
+    "video": {
+        "activity": "com.nxt.ynt.VideoListActivity"
+    }
+}
